@@ -1,7 +1,7 @@
 ### Olá Mundo 👋
 
 Estou iniciando meus estudos para me tornar Desenvolvedor Full Stack Java.
-Em busca da migração de carreira.
+<br>Em busca da migração de carreira.
 
 ###### Sobre o Gabriel
 
