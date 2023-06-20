@@ -11,7 +11,7 @@ Estou iniciando meus estudos para me tornar Desenvolvedor Full Stack Java.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonteejo&show_icons=true&theme=dark)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonteejo&show_icons=true&theme=dark)](https://github.com/Gonteejo)
 
 ### Projeto
 
@@ -19,7 +19,7 @@ Estou iniciando meus estudos para me tornar Desenvolvedor Full Stack Java.
 
 *** Linguragens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonteejo&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonteejo&layout=compact)](https://github.com/Gonteejo)
 
 ### Contatos
 
