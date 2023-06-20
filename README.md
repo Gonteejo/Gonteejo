@@ -11,15 +11,15 @@ Estou iniciando meus estudos para me tornar Desenvolvedor Full Stack Java.
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonteejo&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gonteejo&show_icons=true&theme=dark)]
 
 ### Projeto
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gonteejo&repo=Tiktok-clone&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Gonteejo&repo=Tiktok-clone&theme=dark)](https://github.com/Gonteejo/Tiktok-clone)
 
 *** Linguragens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonteejo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gonteejo&layout=compact)]
 
 ### Contatos
 
