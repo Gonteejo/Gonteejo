@@ -6,7 +6,7 @@ Estou iniciando meus estudos para me tornar Desenvolvedor Full Stack Java.
 ###### Sobre o Gabriel
 
 - Engenheiro mecanico;
-- 4 anos de experiencia como lider de equipe;
+- 3 anos de experiencia como lider de equipe;
 - Trabalhando atualmente na Stellantis (Fabrica Jeep).
 
 ### Detalhes
